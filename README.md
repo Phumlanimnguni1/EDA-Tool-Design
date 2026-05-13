@@ -1,4 +1,4 @@
-# 📊 Credit Risk EDA Tool - DataQuest2026
+# 📊 Credit Risk EDA Tool - DataQuest 2026
 
 An interactive Exploratory Data Analysis (EDA) tool built with Streamlit for analyzing credit risk data and identifying predictive patterns in loan applications. This tool is designed to help data scientists and credit analysts understand their data, evaluate feature importance, and prepare for building interpretable credit models.
 
@@ -46,5 +46,6 @@ This project is **Task 1** of the DataQuest 2026 competition, which focuses on b
   - Feature selection recommendations
   - Downloadable ranking reports
   - Feature engineering suggestions
+
 
 
