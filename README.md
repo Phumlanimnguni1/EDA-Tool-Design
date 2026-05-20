@@ -20,6 +20,8 @@ Because the business mandates a linear Logistic Regression model for regulatory 
 
 ## 🛠️ Key Features & Application Tabs
 ### 1. 🔍 Data Quality Report
+c:\Users\prosp\OneDrive\Desktop\DE Tools\github projects\Quality report EDA.png
+c:\Users\prosp\OneDrive\Desktop\DE Tools\github projects\EDA report Q.png
 Automated data integrity auditing for the `loan_book` dataset:
 - Missing value analysis with visualisations.
 - Duplicate detection and Outlier identification (IQR method).
@@ -33,6 +35,7 @@ Deep-dive into individual features using industry-standard credit risk mathemati
 - Default rate analysis by quantiles/bins.
 
 ### 3. 🔗 Bivariate Explorer (The Interaction Hunter)
+c:\Users\prosp\OneDrive\Desktop\DE Tools\github projects\Debt Servicing Stress Index.png
 The core engine for discovering hidden subgroup risks:
 - Interactive Plotly scatter plots and density heatmaps overlaid with the target `default_flag`.
 - Correlation matrices and interaction effect identification to guide mathematical feature engineering.
@@ -43,10 +46,14 @@ Automated feature importance reporting:
 - Feature selection recommendations and downloadable ranking reports to guide the Databricks ETL pipeline.
 
 ### 5. 💼 Business Value Dashboard 
+c:\Users\prosp\OneDrive\Desktop\DE Tools\github projects\dashboard1EDA.png
+c:\Users\prosp\OneDrive\Desktop\DE Tools\github projects\dashboard2EDA.png
+c:\Users\prosp\OneDrive\Desktop\DE Tools\github projects\dashboard3EDA.png
 A dynamic decision-support tool turning model outputs into lending strategies:
 - **Interactive Policy Slider:** Allows risk managers to adjust the Probability of Default approval threshold.
 - **Volume vs. Risk Trade-off:** A dual-axis visual simulation showing how tightening the policy impacts loan approval volume vs. expected portfolio risk.
-- **Business Translation of ML Metrics:** Dynamically explains Precision and Recall in business terms (e.g. translating a 60.3% Precision into exactly how many false alarms the bank is avoiding).
+- **Business Translation of ML Metrics:** 
+Dynamically explains Precision and Recall in business terms (e.g. translating a 60.3% Precision into exactly how many false alarms the bank is avoiding).
 
 ---
 
