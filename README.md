@@ -20,8 +20,10 @@ Because the business mandates a linear Logistic Regression model for regulatory 
 
 ## 🛠️ Key Features & Application Tabs
 ### 1. 🔍 Data Quality Report
-c:\Users\prosp\OneDrive\Desktop\DE Tools\github projects\Quality report EDA.png
-c:\Users\prosp\OneDrive\Desktop\DE Tools\github projects\EDA report Q.png
+<img width="1726" height="810" alt="Quality report EDA" src="https://github.com/user-attachments/assets/b5be1881-c2c5-4324-9471-e834a478025f" />
+
+<img width="1603" height="783" alt="EDA report Q" src="https://github.com/user-attachments/assets/6f93571a-2354-4d6f-bd5a-a5200f6c8a41" />
+
 Automated data integrity auditing for the `loan_book` dataset:
 - Missing value analysis with visualisations.
 - Duplicate detection and Outlier identification (IQR method).
@@ -35,7 +37,8 @@ Deep-dive into individual features using industry-standard credit risk mathemati
 - Default rate analysis by quantiles/bins.
 
 ### 3. 🔗 Bivariate Explorer (The Interaction Hunter)
-c:\Users\prosp\OneDrive\Desktop\DE Tools\github projects\Debt Servicing Stress Index.png
+<img width="1684" height="732" alt="Debt Servicing Stress Index" src="https://github.com/user-attachments/assets/3382132a-1ac9-4219-a91c-9034acac192a" />
+
 The core engine for discovering hidden subgroup risks:
 - Interactive Plotly scatter plots and density heatmaps overlaid with the target `default_flag`.
 - Correlation matrices and interaction effect identification to guide mathematical feature engineering.
@@ -46,9 +49,12 @@ Automated feature importance reporting:
 - Feature selection recommendations and downloadable ranking reports to guide the Databricks ETL pipeline.
 
 ### 5. 💼 Business Value Dashboard 
-c:\Users\prosp\OneDrive\Desktop\DE Tools\github projects\dashboard1EDA.png
-c:\Users\prosp\OneDrive\Desktop\DE Tools\github projects\dashboard2EDA.png
-c:\Users\prosp\OneDrive\Desktop\DE Tools\github projects\dashboard3EDA.png
+<img width="1830" height="814" alt="dashboard1EDA" src="https://github.com/user-attachments/assets/568e5e5c-4684-4b7f-840a-d4e261c0d555" />
+
+<img width="1342" height="593" alt="dashboard2EDA" src="https://github.com/user-attachments/assets/ab9a4425-6a28-487e-a3fe-c4bf07193aa6" />
+
+<img width="1352" height="703" alt="dashboard3EDA" src="https://github.com/user-attachments/assets/ee8d45c0-b661-43c5-b653-a0b98bced345" />
+
 A dynamic decision-support tool turning model outputs into lending strategies:
 - **Interactive Policy Slider:** Allows risk managers to adjust the Probability of Default approval threshold.
 - **Volume vs. Risk Trade-off:** A dual-axis visual simulation showing how tightening the policy impacts loan approval volume vs. expected portfolio risk.
