@@ -42,7 +42,7 @@ Automated feature importance reporting:
 - Information Value (IV) based ranking of all features (from "Useless" to "Strong Predictive Power").
 - Feature selection recommendations and downloadable ranking reports to guide the Databricks ETL pipeline.
 
-### 6. 💼 Business Value Dashboard 
+### 5. 💼 Business Value Dashboard 
 A dynamic decision-support tool turning model outputs into lending strategies:
 - **Interactive Policy Slider:** Allows risk managers to adjust the Probability of Default approval threshold.
 - **Volume vs. Risk Trade-off:** A dual-axis visual simulation showing how tightening the policy impacts loan approval volume vs. expected portfolio risk.
